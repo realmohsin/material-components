@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://image.flaticon.com/icons/svg/1147/1147083.svg" width="50" />
 </div>
 <h1 align="center">
-  SPA Template
+  Material Components
 </h1>
 
-A boilerplate for React Single Page Applications.
+A set of Material components to augment the Material UI library.
 <br></br>
 
 ## Table of Contents
